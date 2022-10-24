@@ -1,0 +1,36 @@
+body {
+    margin: 0%;
+}
+.header {
+    background-image: url("../img/banner3.svg");
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 40px;
+}
+.header h1{
+    text-align: center;
+}
+.header span {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.8);
+    padding: 6px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.indice{
+    margin: 4%;
+}
+.indice h2 {
+text-decoration: underline;
+}
+a {
+    text-decoration: none;
+    color:black ;
+}
+.texto{
+    margin: 4%;
+}
+.texto h3 {
+    margin-left: -2%;
+}
